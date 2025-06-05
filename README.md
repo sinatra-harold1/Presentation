@@ -51,14 +51,6 @@ To utilize expertise as a cybersecurity analyst to identify and mitigate securit
 | *IDS/IPS*    | Snort |
 | *Firewalls*  | PFsense, UFW , Windows Firewall |
 
----
-
-## 💼 Professional Experience  
-*Cybersecurity Analyst*  
-- Designed secure Splunk deployments for threat monitoring  
-- Automated security hardening of 200+ Windows hosts  
-- Conducted vulnerability assessments reducing risk   
-- Implemented PFsense firewall rules blocking 15K+ malicious IPs monthly  
 
 ---
 
